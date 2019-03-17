@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-social-network
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: velmurugan
+Implementation-Vendor-Id: com.vel.springSocial
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-social-network
+Created-By: Maven Integration for Eclipse
+
