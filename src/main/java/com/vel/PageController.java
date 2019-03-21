@@ -16,9 +16,9 @@ public class PageController {
 		return "app.about";
 	}
 	
-	@RequestMapping("/user")
+	@RequestMapping("/admin")
 	String user() {
-		return "user";
+		return "app.admin";
 	}
 
 }

@@ -11,10 +11,10 @@
             <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="">Link</a>
+            <a class="nav-link" href="/admin">Admin</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/about">about</a>
+            <a class="nav-link" href="/about">About</a>
           </li>
         </ul>
         <form class="form-inline mt-2 mt-md-0">
