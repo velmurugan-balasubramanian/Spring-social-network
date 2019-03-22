@@ -15,8 +15,17 @@
 <link href="/css/main.css" rel="stylesheet">
 </head>
 <body>
-	<tiles:insertAttribute name="navbar" />
-	<tiles:insertAttribute name="content" />
+    <header>
+            <div class="container">
+                <tiles:insertAttribute name="navbar" />
+            </div>
+    </header>
+
+	
+	<main class="main">
+	   <tiles:insertAttribute name="content" />
+	</main>
+	
 	
 	<script src="/js/jquery.js"></script>
 	<script src="/js/bootstrap.js"></script>
