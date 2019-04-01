@@ -19,7 +19,7 @@ public class PageController {
 
 	@RequestMapping("/")
 	String home() {
-		return "app.homepage";
+		return "app.addStatus";
 	}
 	
 	@RequestMapping("/about")
